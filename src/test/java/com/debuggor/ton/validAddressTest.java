@@ -1,7 +1,7 @@
 package com.debuggor.ton;
 
 /**
- * @Author:yong.huang
+ * @Author:debuggor
  * @Date:2020-05-08 22:12
  */
 public class validAddressTest {

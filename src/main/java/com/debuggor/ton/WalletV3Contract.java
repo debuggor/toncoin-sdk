@@ -3,7 +3,7 @@ package com.debuggor.ton;
 import java.util.Date;
 
 /**
- * @Author:yong.huang
+ * @Author:debuggor
  * @Date:2020-05-01 23:14
  */
 public class WalletV3Contract extends WalletContract {

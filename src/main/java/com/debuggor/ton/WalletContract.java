@@ -3,7 +3,7 @@ package com.debuggor.ton;
 import com.alibaba.fastjson.JSONObject;
 
 /**
- * @Author:yong.huang
+ * @Author:debuggor
  * @Date:2020-05-01 19:58
  */
 public class WalletContract extends Contract {

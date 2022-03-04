@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSONObject;
 import org.spongycastle.util.encoders.Hex;
 
 /**
- * @Author:yong.huang
+ * @Author:debuggor
  * @Date:2020-04-29 18:11
  */
 public class AddressTest01 {

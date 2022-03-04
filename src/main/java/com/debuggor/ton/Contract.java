@@ -8,7 +8,7 @@ import static net.i2p.crypto.eddsa.Utils.bytesToHex;
 import static net.i2p.crypto.eddsa.Utils.hexToBytes;
 
 /**
- * @Author:yong.huang
+ * @Author:debuggor
  * @Date:2020-04-30 23:28
  */
 public class Contract {

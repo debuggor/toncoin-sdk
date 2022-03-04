@@ -5,7 +5,7 @@ import org.spongycastle.util.encoders.Hex;
 import java.math.BigInteger;
 
 /**
- * @Author:yong.huang
+ * @Author:debuggor
  * @Date:2020-04-29 23:16
  */
 public class BitString {

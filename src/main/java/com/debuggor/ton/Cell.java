@@ -14,7 +14,7 @@ import static net.i2p.crypto.eddsa.Utils.bytesToHex;
 import static net.i2p.crypto.eddsa.Utils.hexToBytes;
 
 /**
- * @Author:yong.huang
+ * @Author:debuggor
  * @Date:2020-04-30 21:24
  */
 public class Cell {

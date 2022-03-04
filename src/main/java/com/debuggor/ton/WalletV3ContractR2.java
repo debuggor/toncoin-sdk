@@ -3,7 +3,7 @@ package com.debuggor.ton;
 import static net.i2p.crypto.eddsa.Utils.hexToBytes;
 
 /**
- * @Author: yong.huang
+ * @Author: debuggor
  * @DATE: 2021/10/29 17:03
  */
 public class WalletV3ContractR2 extends WalletV3Contract {

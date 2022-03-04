@@ -4,7 +4,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * @Author:yong.huang
+ * @Author:debuggor
  * @Date:2020-04-29 17:58
  */
 public class Utils {
